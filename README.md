@@ -105,13 +105,18 @@ jwt-secret=(enter your secret JWT code)
 
 ## Usage
 
-- The Header appears at the top of the page. The user is able to login using their email address and password or sign up by filling in their first name, last name, email address and password.
+- The Header appears at the top of the page. The user is able to sign up by filling in their first name, last name, email address and password. Once the user is registered, he/she can login using their email address and password.
+Note: Your password must be atleast 8 characters long.
 
-- Once logged in, the user can add a task to their to-do list by typing in their task under the "Add Item" heading (in the placeholder) followed by clicking on the "add task" button.
+![Sign Up](https://user-images.githubusercontent.com/105747929/196003379-48a25e54-b0d9-4752-9b7c-929b0e99bcbb.png)
 
-- The users todo entries will now be saved under the "Things to do" heading. The user can delete their items are they please by clicking on the "delete task" button.
+- Once logged in, the user will be welcome and can add tasks to their to-do list by typing in their task under the "Add Item" heading (in the entry box) followed by clicking on the "add task" button. The users todo entries will be saved under the "Things to do" heading.
 
-- All changes made to the users to-do list will be saved onced he/she logs out.
+![Add Task](https://user-images.githubusercontent.com/105747929/196003873-f97d5e96-df5d-4127-9f77-d0b6723db6be.png)
+
+- The user can delete their items by clicking on the "delete task" button. All changes made to the users to-do list will be saved onced he/she logs out.
+
+![Delete Task](https://user-images.githubusercontent.com/105747929/196004075-271860cb-6029-4ea0-ab81-2e97f491fb52.png)
 
 ## Notice:
 
