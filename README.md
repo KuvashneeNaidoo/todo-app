@@ -84,7 +84,7 @@ Note: Your password must be atleast 8 characters long.
 
 ![Sign Up](https://user-images.githubusercontent.com/105747929/196003379-48a25e54-b0d9-4752-9b7c-929b0e99bcbb.png)
 
-- Once logged in, the user will be welcome and can add tasks to their to-do list by typing in their task under the "Add Item" heading (in the entry box) followed by clicking on the "Add Task" button. The users todo entries will be saved under the "Things to do" heading.
+- Once logged in, the user will be welcome and can add tasks to their to-do list by typing in their task under the "Add Item" heading (in the entry box) followed by clicking on the "Add Task" button. The users to-do entries will be saved under the "Things to do" heading.
 
 ![Add Task](https://user-images.githubusercontent.com/105747929/196003873-f97d5e96-df5d-4127-9f77-d0b6723db6be.png)
 
