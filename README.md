@@ -1,4 +1,4 @@
-# MERN To Do App with JWT Authentication
+# MERN To-Do App
 
 ## Description
 
