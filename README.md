@@ -73,7 +73,6 @@ npm start
 ```
 uri=(enter your uri from your mongoDB account)
 jwt-secret=(enter your secret JWT code)
-
 ```
 
 - For privacy concerns, add this .env file to the .gitignore file to avoid pushing it to gitHub.
