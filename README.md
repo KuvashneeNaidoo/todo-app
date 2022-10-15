@@ -2,8 +2,7 @@
 
 ## Description
 
-This To-Do List project is a fullstack web application. Reactjs was used to create the frontend and Express was used to create the backend of this project. MongoDb was used to store the users data in a database and JWT was used to authenticate the user when he/she logs into the application. After entering the login information of the user, the JWT token can be found easily by opening up the console.
-(NOTE: I used the resources below to correct errors and simplify my code for a neater appearance.)
+This To-Do List project is a fullstack web application. Reactjs was used to create the frontend and Express was used to create the backend of this project. MongoDB was used to store the users data in a database and JWT was used to authenticate the user when he/she logs into the application. After entering the login information of the user, the JWT token can be found easily by opening up the console.
 
 ## Table of Contents
 
@@ -33,24 +32,10 @@ cd todo-app
 
 ### Backend:
 
-- For the Backend of this project, create the package.json file by typing in:
+- For the Backend of this project, build your Express app and install all node modules by typing in:
 
 ```
-npm init
-```
-
-- Thereafter, build your Express app by individually typing npm install --save followed by:
-
-```
-body-parser
-cors
-dotenv
-express
-helmet
-jsonwebtoken
-mongoose
-morgan
-nodemon
+npm install --save
 ```
 
 - After the installation is done, you can run the the backend application by typing in:
@@ -67,18 +52,10 @@ npm run dev
 
 ### Frontend:
 
-- For the Frontend/Client side of this project, create the react app by typing in:
+- For the Frontend of this project, build your React app and install all node modules by typing in:
 
 ```
-npx create-react-app
-```
-
-- Thereafter, build your app by individually typing npm install --save followed by:
-
-```
-axios
-bootstrap
-react-bootstrap
+npm install --save
 ```
 
 - After the installation is done, you can run the the frontend application by typing in:
@@ -86,8 +63,6 @@ react-bootstrap
 ```
 npm start
 ```
-
-- Open http://localhost:3000 to run the frontend React application in the browser.
 
 ## Handling Sensitive Data
 
